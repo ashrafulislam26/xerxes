@@ -1,19 +1,22 @@
-<h1 align="center">XerXes</h1>
-<p align="center">
-  The Most Powerful DoS tool
-</p>
+XERXES
 
-### CLONE
-```
-# git clone https://github.com/CyberXCodder/XerXes.git
-```
+XerXes - Most powerful dos tool bY mR.Thg
 
-### COMPILE
-```
-# gcc xerxes.c -o xerxes
-```
+COMPILE
 
-### RUNNING
-```
-# ./xerxes www.fakesite.com 80
-```
+gcc -o xerxes xerxes.c
+
+LINUX/UNIX/MAC
+
+./xerxes https://krisanjits.000webhostapp.com 80
+
+BE ANONYMOUS
+USE PROXY VPN OPENVPN TOR PROXYCHAINS
+
+https://en.wikipedia.org/wiki/The_Jester_%28hacktivist%29
+
+https://twitter.com/th3j35t3r
+
+http://jesterscourt.cc/
+
+XERXES
